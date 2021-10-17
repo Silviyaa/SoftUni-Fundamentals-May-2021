@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Exercise Objects and Classes">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/02. Articles.zip!/" />
+      <root url="jar://$PROJECT_DIR$/03. Opinion Poll.zip!/" />
+      <root url="jar://$PROJECT_DIR$/05. Students.zip!/" />
+      <root url="jar://$PROJECT_DIR$/07. Order by Age.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
